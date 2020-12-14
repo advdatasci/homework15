@@ -1,0 +1,33 @@
+---
+title: "Homework 15"
+output: html_document
+author: "Your Name"
+---
+
+
+## Reading
+
+1. Clone the repo https://github.com/advdatasci/homework15-ind-yourgithubusername to your computer
+2. Read the chapter on Data Science Ethics:
+https://beanumber.github.io/mdsr2e/ch-ethics.html#role-of-data-science-in-society
+
+
+## Race as a predictor
+
+Delete this text and provide a short (1-2 paragraph answer to the prompt below) 
+
+A Slate article (http://tinyurl.com/slate-ethics) discussed whether race/ethnicity should be included in a predictive model for how long a homeless family would stay in homeless services. Discuss the ethical considerations involved in whether race/ethnicity should be included as a predictor in the model.
+
+
+## Data privacy subtleties
+
+Delete this text and provide a short (1-2 paragraph answer to the prompt below) 
+
+ A data analyst received permission to post a data set that was scraped from a social media site. The full data set included name, screen name, email address, geographic location, IP (Internet protocol) address, demographic profiles, and preferences for relationships. Why might it be problematic to post a deidentified form of this data set where name and email address were removed?
+ 
+ 
+ ## Data repurposing
+ 
+ Delete this text and provide a short (1-2 paragraph answer to the prompt below) 
+ 
+ A data analyst is provided access to genetic data collected to analyze the relationship between genetic variation and blood pressure. They also have information on body mass index and ethnicity for participants in the study, so they perform a secondary analysis of the relationship between genetic variation and BMI. What are some potential ethical issues with this analysis?
